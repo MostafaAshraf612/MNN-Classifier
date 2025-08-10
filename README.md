@@ -29,17 +29,5 @@ Two main approaches are explored:
 
 ---
 
-## 📊 Performance Comparison
-Evaluate and compare the accuracy, precision, recall, and F1-score of all classifiers. Identify which method yields the best performance on the chosen dataset.
-
----
-
-## 🛠️ Technologies Used
-- Python
-- OpenCV
-- Scikit-learn
-- TensorFlow
-
----
 
 
